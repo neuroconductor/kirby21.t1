@@ -8,7 +8,7 @@
 #' @examples
 #' download_t1_data()
 #' @export
-#' @importFrom kirby21.base download_kirby21_data
+#' @importFrom kirby21.base download_kirby21_data all_modalities
 download_t1_data =  function(...) {  
   x = kirby21.base::download_kirby21_data(modality = "T1", ...)
   return(x)
