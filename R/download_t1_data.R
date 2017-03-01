@@ -5,8 +5,6 @@
 #' \code{modalities = "T1"} so it cannot be specified
 #' @return Indicator if the data is downloaded.
 #' 
-#' @examples
-#' download_t1_data()
 #' @export
 #' @importFrom kirby21.base download_kirby21_data all_modalities
 download_t1_data =  function(...) {  
