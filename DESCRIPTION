@@ -2,7 +2,7 @@ Package: kirby21.t1
 Type: Package
 Title: Example T1 Structural Data from the Multi-Modal MRI 'Reproducibility'
         Resource
-Version: 1.5.2
+Version: 1.6.0
 Date: 2017-10-10
 Author: John Muschelli <muschellij2@gmail.com>
 Maintainer: John Muschelli <muschellij2@gmail.com>
