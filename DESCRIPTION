@@ -13,3 +13,5 @@ License: GPL-2
 Imports: kirby21.base (>= 1.5)
 RoxygenNote: 6.0.1.9000
 URL: https://www.nitrc.org/projects/multimodal/
+Encoding: UTF-8
+
