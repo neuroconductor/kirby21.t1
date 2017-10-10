@@ -11,7 +11,7 @@ get_t1_filenames(...)
 \code{modalities = "T1"} so it cannot be specified}
 }
 \value{
-Vector fo filenames
+Vector of filenames
 }
 \description{
 Return the filenames for the T1 images
