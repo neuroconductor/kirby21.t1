@@ -13,3 +13,4 @@
 
 This is a new release, so there are no reverse dependencies.
 
+* Fixed the DOI problem
