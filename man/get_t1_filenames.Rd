@@ -2,9 +2,12 @@
 % Please edit documentation in R/get_t1_filenames.R
 \name{get_t1_filenames}
 \alias{get_t1_filenames}
+\alias{get_brainmask_filenames}
 \title{Get T1 Image Filenames}
 \usage{
 get_t1_filenames(...)
+
+get_brainmask_filenames(...)
 }
 \arguments{
 \item{...}{arguments to pass to \code{\link{get_image_filenames}},

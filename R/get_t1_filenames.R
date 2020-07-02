@@ -10,6 +10,13 @@
 #' @export
 #' @importFrom kirby21.base get_image_filenames
 get_t1_filenames = function(...) {
-  x = kirby21.base::get_image_filenames(modalities = c("T1", "BrainMask"), ...)
+  x = kirby21.base::get_image_filenames(modalities = "T1", ...)
+  return(x)
+}
+
+#' @export
+#' @rdname get_t1_filenames
+get_brainmask_filenames = function(...) {
+  x = kirby21.base::get_image_filenames(modalities = "BrainMask", ...)
   return(x)
 }

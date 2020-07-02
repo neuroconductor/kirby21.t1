@@ -2,6 +2,7 @@
 
 export(delete_t1_data)
 export(download_t1_data)
+export(get_brainmask_filenames)
 export(get_t1_filenames)
 importFrom(kirby21.base,all_modalities)
 importFrom(kirby21.base,delete_kirby21_data)
