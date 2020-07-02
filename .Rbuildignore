@@ -5,3 +5,4 @@ inst/visit_*/*
 ^appveyor\.yml$
 ^cran-comments\.md$
 revdep/*
+^data-raw$
