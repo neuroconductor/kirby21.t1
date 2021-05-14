@@ -6,3 +6,8 @@ inst/visit_*/*
 ^cran-comments\.md$
 revdep/*
 ^data-raw$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
